@@ -1,0 +1,8 @@
+.vscode/
+env/
+AfterInstall.txt
+BeforeInstall.txt
+Licence.txt
+SecureChat.py
+SecureChat.iss
+SecureChat.spec
