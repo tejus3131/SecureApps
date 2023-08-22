@@ -1,0 +1,11 @@
+Welcome to the SecureApps Installer
+
+Before you begin the installation process, please take a moment to review the following information:
+
+- SecureApps is a secure GUI application designed for providing a secure and private file encrypting experience.
+- The installation process will guide you through the setup of the application on your system.
+- Ensure that you meet the system requirements to ensure a successful installation.
+
+Thank you for choosing SecureApps. We hope you enjoy using it!
+
+Press 'Next' to continue with the installation.

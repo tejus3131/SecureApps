@@ -1,7 +1,11 @@
 .vscode/
 env/
-AfterInstall.txt
-BeforeInstall.txt
+build/
+dist/
+__pycache__/
+app.iss
+app.py
+app.spec
 Licence.txt
 SecureChat.py
 SecureChat.iss

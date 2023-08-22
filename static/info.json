@@ -1,0 +1,16 @@
+{
+    "EncMate":{
+        "exe_name":"EncMateSetup-V1.2.exe",
+        "icon_name":"logo.ico",
+        "version":"1.2",
+        "release_date":"22-08-2023",
+        "description":"A application for Encrypting and Decrypting files."
+    },
+    "SecureChat":{
+        "exe_name":"SecureChat-Setup-V_1.0.exe",
+        "icon_name":"logo.ico",
+        "version":"1.0",
+        "release_date":"13-08-2023",
+        "description":"A application for end-to-end encrypted chats."
+    }
+}

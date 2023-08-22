@@ -1,0 +1,13 @@
+Installation Complete
+
+Congratulations! You have successfully installed SecureApps.
+
+Quick Start:
+To launch SecureApps, locate the shortcut on your desktop and double-click it.
+
+Help and Support:
+If you encounter any issues or have questions, please visit our website at https://tejus3131.github.io/SecuredApps/ for assistance and resources.
+
+Thank you for choosing EncryptoMate. We appreciate your support!
+
+Press 'Finish' to exit the installer.
